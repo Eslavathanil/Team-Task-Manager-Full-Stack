@@ -20,7 +20,7 @@ https://team-task-manager-app-pyq6.onrender.com
 
 # GitHub Repository
 
-https://github.com/badri143-alt/team-task-manager-app
+https://github.com/Eslavathanil/Team-Task-Manager-Full-Stack.git
 
 ---
 
